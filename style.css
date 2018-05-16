@@ -1,0 +1,25 @@
+ body {
+    background: url("DSC_0178.JPG") no-repeat;
+    background-size: 100%; 
+   }
+   table {
+    width: 100%;
+    border-collapse: collapse; 
+   }
+   td, th {
+    padding: 4px;
+    border: 1px solid #000080; 
+   }
+   th {
+    background: #000080; 
+    color: #ffe; 
+    text-align: left; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 0.9em; 
+   }
+   li {
+    color: red;
+   }
+   li span {
+    color: navy;
+	}
